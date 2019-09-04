@@ -1,0 +1,9 @@
+package jeremy_sandbox;
+
+public class AboutMe {
+
+	public AboutMe() {
+		// TODO Auto-generated constructor stub
+	}
+
+}
