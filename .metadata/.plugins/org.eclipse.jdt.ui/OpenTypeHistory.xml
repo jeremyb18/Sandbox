@@ -1,2 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<typeInfoHistroy/>
+<typeInfoHistroy>
+    <typeInfo handle="=Ch20application/src&lt;com.example.ch20application{Second.java[Second" modifiers="1" timestamp="1569514095398"/>
+    <typeInfo handle="=ch20exe2/src&lt;com.example.ch20exe2{Second.java[Second" modifiers="1" timestamp="1569856653740"/>
+    <typeInfo handle="=Hello,Again/src&lt;com.example.helloagain{Second.java[Second" modifiers="1" timestamp="1570026614605"/>
+    <typeInfo handle="=Hello,Again/src&lt;com.example.helloagain{Third.java[Third" modifiers="1" timestamp="1570026439756"/>
+    <typeInfo handle="=Whack_A_Mole/src&lt;com.example.whack_a_mole{GameOver.java[GameOver" modifiers="1" timestamp="1573748877188"/>
+    <typeInfo handle="=Whack_A_Mole/src&lt;com.example.whack_a_mole{HighScores.java[HighScores" modifiers="1" timestamp="1573750005666"/>
+    <typeInfo handle="=pizza/src&lt;com.example.pizza{Order.java[Order" modifiers="1" timestamp="1572363450789"/>
+    <typeInfo handle="=List_box/src&lt;com.example.list_box{petList.java[petList" modifiers="1" timestamp="1572361711461"/>
+    <typeInfo handle="=pizza/src&lt;com.example.pizza{ListSize.java[ListSize" modifiers="1" timestamp="1572362268432"/>
+    <typeInfo handle="=pizza/src&lt;com.example.pizza{SodaList.java[SodaList" modifiers="1" timestamp="1572364433629"/>
+    <typeInfo handle="=Whack_A_Mole/src&lt;com.example.whack_a_mole{Options.java[Options" modifiers="1" timestamp="1573574514389"/>
+    <typeInfo handle="=Whack_A_Mole/src&lt;com.example.whack_a_mole{Startpg.java[Startpg" modifiers="1" timestamp="1574267905571"/>
+    <typeInfo handle="=chapter27/src&lt;com.example.chapter27{NotifyActivty.java[NotifyActivty" modifiers="1" timestamp="1575993477591"/>
+    <typeInfo handle="=ReminderAlarm/src&lt;teencoder.androidprogramming{Snooze.java[Snooze" modifiers="1" timestamp="1575996636463"/>
+</typeInfoHistroy>

@@ -18,7 +18,7 @@ public class Hello_World {
 		System.out.print("Hello World " + 10);
 		if(A < 19)
 		{
-			new Hello_World(A++);
+			//new Hello_World(A++);
 
 		}
 		

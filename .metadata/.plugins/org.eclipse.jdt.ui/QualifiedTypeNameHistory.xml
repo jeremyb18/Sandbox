@@ -1,2 +1,55 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<qualifiedTypeNameHistroy/>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="com.example.ch20application.R.layout"/>
+    <fullyQualifiedTypeName name="com.example.ch20application.R.id"/>
+    <fullyQualifiedTypeName name="android.provider.Settings.System"/>
+    <fullyQualifiedTypeName name="android.view.SurfaceHolder"/>
+    <fullyQualifiedTypeName name="android.content.Context"/>
+    <fullyQualifiedTypeName name="android.graphics.Paint"/>
+    <fullyQualifiedTypeName name="android.graphics.Canvas"/>
+    <fullyQualifiedTypeName name="android.content.res.Resources"/>
+    <fullyQualifiedTypeName name="com.example.whack_a_mole.R.layout"/>
+    <fullyQualifiedTypeName name="android.view.WindowManager"/>
+    <fullyQualifiedTypeName name="android.view.Window"/>
+    <fullyQualifiedTypeName name="com.example.caclulator.R.id"/>
+    <fullyQualifiedTypeName name="com.example.pizza.R.id"/>
+    <fullyQualifiedTypeName name="android.widget.ArrayAdapter"/>
+    <fullyQualifiedTypeName name="android.widget.ListView"/>
+    <fullyQualifiedTypeName name="com.example.whack_a_mole.GameOver"/>
+    <fullyQualifiedTypeName name="android.os.Environment"/>
+    <fullyQualifiedTypeName name="com.example.whack_a_mole.R.drawable"/>
+    <fullyQualifiedTypeName name="com.example.whack_a_mole.R.id"/>
+    <fullyQualifiedTypeName name="android.app.AlertDialog"/>
+    <fullyQualifiedTypeName name="android.content.DialogInterface"/>
+    <fullyQualifiedTypeName name="com.example.anonymous_classes.R.style"/>
+    <fullyQualifiedTypeName name="com.example.anonymous_classes.R.color"/>
+    <fullyQualifiedTypeName name="com.example.anonymous_classes.R.id"/>
+    <fullyQualifiedTypeName name="android.graphics.Color"/>
+    <fullyQualifiedTypeName name="android.app.DialogFragment"/>
+    <fullyQualifiedTypeName name="android.app.Activity"/>
+    <fullyQualifiedTypeName name="android.app.Dialog"/>
+    <fullyQualifiedTypeName name="android.app.DatePickerDialog"/>
+    <fullyQualifiedTypeName name="com.example.dateandtime.R.id"/>
+    <fullyQualifiedTypeName name="android.content.DialogInterface.OnClickListener"/>
+    <fullyQualifiedTypeName name="android.view.View"/>
+    <fullyQualifiedTypeName name="android.os.Bundle"/>
+    <fullyQualifiedTypeName name="com.example.chapter27.R.id"/>
+    <fullyQualifiedTypeName name="teencoder.androidprogramming.R.id"/>
+    <fullyQualifiedTypeName name="java.util.Calendar"/>
+    <fullyQualifiedTypeName name="android.view.Menu"/>
+    <fullyQualifiedTypeName name="android.view.MenuInflater"/>
+    <fullyQualifiedTypeName name="teencoder.androidprogramming.R.menu"/>
+    <fullyQualifiedTypeName name="teencoder.androidprogramming.AlarmKeeper"/>
+    <fullyQualifiedTypeName name="android.widget.Button"/>
+    <fullyQualifiedTypeName name="android.view.View.OnClickListener"/>
+    <fullyQualifiedTypeName name="android.content.Intent"/>
+    <fullyQualifiedTypeName name="com.example.sms_test.R.id"/>
+    <fullyQualifiedTypeName name="android.app.PendingIntent"/>
+    <fullyQualifiedTypeName name="android.widget.Toast"/>
+    <fullyQualifiedTypeName name="android.widget.EditText"/>
+    <fullyQualifiedTypeName name="android.widget.ImageView"/>
+    <fullyQualifiedTypeName name="android.os.StrictMode"/>
+    <fullyQualifiedTypeName name="android.widget.TextView"/>
+    <fullyQualifiedTypeName name="java.net.URLConnection"/>
+</qualifiedTypeNameHistroy>
